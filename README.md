@@ -1,4 +1,4 @@
-# CHURN-PREDICTION-USING-RAPIDMINER  
+# RAPIDMINER BASED CHURN-PREDICTION ANALYTICS
 **#Case Study:**
 Leveraging Machine Learning to Predict and Reduce Customer Churn for a Telecom Company
 Executive Summary:
