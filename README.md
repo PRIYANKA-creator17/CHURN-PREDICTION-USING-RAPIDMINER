@@ -37,3 +37,16 @@ Handling Missing Data: Some missing values were found in TotalCharges, primarily
 
 **Model Selection and Evaluation**
 ![image](https://github.com/user-attachments/assets/686947a6-e700-4514-89f5-fcbad2ddee79)
+
+**Business Impact of this case study:**
+
+**Proactive Customer Retention:**
+By using predictive models, the company can identify customers who are at high risk of churning based on their contract types, payment methods, and service usage patterns. These insights allow for timely interventions, such as offering tailored discounts, enhancing customer service, or extending contracts.
+
+**Resource Optimization:**
+Instead of treating all customers equally in retention efforts, the company can focus its marketing and engagement strategies specifically on high-risk segments, improving retention ROI and reducing marketing waste.
+
+**Data-Driven Decision Making:**
+The models provide a structured framework to understand which variables (e.g., short-term contracts, month-to-month billing) are most associated with churn, enabling the company to develop data-driven policies that better align with customer needs.
+
+
